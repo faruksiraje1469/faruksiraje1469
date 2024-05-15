@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/faruksiraje1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faruksiraje1469" height="30" width="40" /></a>
 <a href="https://fb.com/mdomarfaruk.siraje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdomarfaruk.siraje" height="30" width="40" /></a>
-<a href="https://instagram.com/mdomarfaruk.siraje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdomarfaruk.siraje" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@faruksiraje1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@faruksiraje1469" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mdomarfaruk.siraje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdomarfaruk.siraje" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@faruksiraje1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@faruksiraje1469" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/faruksiraje" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="faruksiraje" height="30" width="40" /></a>
 </p>
 
