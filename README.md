@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md. Omar Faruk Siraje</h1>
-<!-- <h3 align="center">A Passionate Web Developer from Bangladesh</h3>  -->
-
-<img align="center" alt="coding" width="400" src="https://github.com/faruksiraje1469/faruksiraje1469/blob/main/img.gif">
-
+<img align="center" alt="coding" width="800" src="https://github.com/faruksiraje1469/faruksiraje1469/blob/main/img.gif">
+<h1 align="left">About Me:</h1> 
+<h1 align="left">Hi 👋, I'm Md. Omar Faruk Siraje</h1>
+<h3 align="left">A Passionate Web Developer from Bangladesh</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruksiraje1469&label=Profile%20views&color=0e75b6&style=flat" alt="faruksiraje1469" /> </p>
 
 - 🔭 I’m currently working on **Learning Management System**
