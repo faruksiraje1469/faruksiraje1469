@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React, Next.Js**
 
-- 📝 I  write articles on [https://faruksiraje.blogspot.com/](https://faruksiraje.blogspot.com/)
+- 📝 I  write blog on [https://faruksiraje.blogspot.com/](https://faruksiraje.blogspot.com/)
 
-- 💬 Ask me about **Html,CSS,Bootstrap,Tailwind,Javascript,Laravel and React**
+- 💬 Ask me about **Laravel,Javascript, Html,CSS,Bootstrap,Tailwind and React**
 
 - 📫 How to reach me **faruksiraje@gmail.com**
 
