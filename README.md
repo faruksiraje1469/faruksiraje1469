@@ -10,7 +10,7 @@
 
 - 📝 I  write blog on [https://faruksiraje.blogspot.com/](https://faruksiraje.blogspot.com/)
 
-- 💬 Ask me about **Laravel,Javascript, Html,CSS,Bootstrap,Tailwind and React**
+- 💬 Ask me about **Laravel, Javascript, Html, CSS, Bootstrap, Tailwind and React**
 
 - 📫 How to reach me **faruksiraje@gmail.com**
 
