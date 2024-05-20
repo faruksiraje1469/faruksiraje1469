@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Omar Faruk Siraje</h1>
-<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
+
+<!-- <h3 align="center">A Passionate Web Developer from Bangladesh</h3> <h1 align="center">Hi 👋, I'm Md. Omar Faruk Siraje</h1> -->
 
 <img align="right" alt="coding" width="400" src="https://github.com/faruksiraje1469/faruksiraje1469/blob/main/img.gif">
 
