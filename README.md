@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **faruksiraje@gmail.com**
 
-- 📄 Download my CV [https://drive.google.com/file/d/1UQ7JIniTHL4lwXSWEWvDw8pYTxSri32C/view?usp=drive_link](https://drive.google.com/file/d/1UQ7JIniTHL4lwXSWEWvDw8pYTxSri32C/view?usp=drive_link)
+- 📄 Download my CV [[https://drive.google.com/file/d/1UQ7JIniTHL4lwXSWEWvDw8pYTxSri32C/view?usp=drive_link](https://drive.google.com/file/d/1UQ7JIniTHL4lwXSWEWvDw8pYTxSri32C/view?usp=drive_link)](https://drive.google.com/file/d/1Rsy_JjSduOtFvszjKbHJxC8Pir0bXjHs/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny 😊**
 
