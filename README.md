@@ -16,7 +16,7 @@
 
 - 📄 Download my CV https://drive.google.com/file/d/1jcUD2nlW_3H93jNU6lwk2zF2KZONbyrW/view?usp=sharing
 
-- ⚡ Fun fact **I am Funny 😊**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
