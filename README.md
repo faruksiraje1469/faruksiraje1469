@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **faruksiraje@gmail.com**
 
-- 📄 Download my CV https://drive.google.com/file/d/1jcUD2nlW_3H93jNU6lwk2zF2KZONbyrW/view?usp=sharing
+- 📄 Download my CV https://drive.google.com/file/d/1_tZt-7h4lNYOTDfE-WBM-1XgUMbeocyF/view?usp=sharing
   
 - 🥳 Fun fact: I love to travel, I love to reading novel, I love to cook.
 
