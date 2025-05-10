@@ -16,7 +16,7 @@
 
 - 📄 Download my CV https://drive.google.com/file/d/1_tZt-7h4lNYOTDfE-WBM-1XgUMbeocyF/view?usp=sharing
   
-- 🥳 Fun fact: I love to travel, I love to reading novel, I love to cook.
+- 🥳 Fun fact: I love to travelling, reading novel and  cooking.
 
 
 
