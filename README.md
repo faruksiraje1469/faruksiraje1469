@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Next.Js**
 
-- 📝 I  write blog on [https://faruksiraje.blogspot.com/](https://faruksiraje.blogspot.com/)
+- 📝 Here is my Portfolio link: https://faruksiraje1469.netlify.app/
 
 - 💬 Ask me about **Laravel, Javascript, Html, CSS, Bootstrap, Tailwind and React**
 
