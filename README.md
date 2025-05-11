@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **React, Next.Js**
+- 🌱 I’m currently learning **React Js, Next.Js**
 
 - 📝 Here is my Portfolio link: https://faruksiraje1469.netlify.app/
 
